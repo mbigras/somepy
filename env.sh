@@ -1,0 +1,3 @@
+ENV=${ENV:-dev}
+HOST=${HOST:-127.0.0.1}
+PORT=${PORT:-8080}
